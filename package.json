@@ -1,0 +1,10 @@
+{
+  "name": "donasi-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend Vercel penampung webhook Saweria + Bagibagi, di-polling oleh Roblox",
+  "type": "module",
+  "dependencies": {
+    "@vercel/kv": "^2.0.0"
+  }
+}
